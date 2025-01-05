@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.d6c7e813.css",
+    "main.js": "/portfolio/static/js/main.3bfde878.js",
+    "static/media/image.png": "/portfolio/static/media/image.1abeb8a804f87f2288c0.png",
+    "static/media/CaptchaSystem.png": "/portfolio/static/media/CaptchaSystem.8bdcb80151fe2f4595e9.png",
+    "static/media/apssdc.png": "/portfolio/static/media/apssdc.12416fba9955e238fe80.png",
+    "static/media/artisticoders.png": "/portfolio/static/media/artisticoders.2d58d721ccc5ced09575.png",
+    "static/media/homeicons.png": "/portfolio/static/media/homeicons.55893519d4b768cf9c03.png",
+    "static/media/studentApplication.png": "/portfolio/static/media/studentApplication.2cf78095548d4fff2e06.png",
+    "static/media/about.svg": "/portfolio/static/media/about.363a515cf4b94ff7b2f155d26e469880.svg",
+    "static/media/Udemy.png": "/portfolio/static/media/Udemy.17c41409ecc6c19dddc1.png",
+    "static/media/nptel.png": "/portfolio/static/media/nptel.dc305d1a611404451817.png",
+    "static/media/pre.svg": "/portfolio/static/media/pre.74b00c043f4cea5fb393.svg",
+    "index.html": "/portfolio/index.html",
+    "main.d6c7e813.css.map": "/portfolio/static/css/main.d6c7e813.css.map",
+    "main.3bfde878.js.map": "/portfolio/static/js/main.3bfde878.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6c7e813.css",
+    "static/js/main.3bfde878.js"
+  ]
+}
