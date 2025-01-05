@@ -1,0 +1,14 @@
+
+  .certi-list {
+    margin-top: 20px;
+    color: var(--clr-primary);
+    background: transparent !important;
+    box-shadow: var(--shadow) !important;
+    border-radius: 5px !important;
+    overflow: hidden !important;
+    transition: all 0.4s ease 0s !important;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
